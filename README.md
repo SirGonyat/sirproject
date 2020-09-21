@@ -1,2 +1,0 @@
-# sirproject
-projects
